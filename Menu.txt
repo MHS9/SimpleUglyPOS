@@ -1,0 +1,11 @@
+Steak 20.00
+Bread 4.00
+Pasta 14.00
+Soup 6.00
+Fish 16.00
+Ribs 18.00
+Tacos 13.00
+Shrimp 12.00
+Wine 34.00
+Soda 3.00
+Milk 2.00
